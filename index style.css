@@ -14,9 +14,6 @@ inliner{
 .clr{
     clear: both;
 }
-body {
-    background-color: yellow;
-}
 /*header*/
 .header{
     background: url(img/slider/slider-01.jpg) rgba(0, 0, 0, 0.767);
